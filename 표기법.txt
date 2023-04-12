@@ -1,0 +1,19 @@
+
+### 표기방법
+
+dash-case(Kebab-case)
+`ex:) the-quick-brown-fox`
+
+sbake_case
+`ex:) the_quick_brown_fox`
+
+camelCase 
+`ex:) theQuickBrownFox`
+-> 자바스크립트에서 주로사용함.
+
+PasaclCase
+`ex:) TheQuickBrownFox`
+-> new라는 키워드를 가지고있는 생성자함수라는 개념을 살펴볼 때 명시하게 됨
+
+Zero-based Numbering
+-> 0부터 숫자 시작
